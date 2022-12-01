@@ -1,0 +1,2 @@
+# Discretestructure
+lab 1
